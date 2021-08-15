@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235303545729",
+    "project_id": "fighting-ninja-303da",
+    "storage_bucket": "fighting-ninja-303da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235303545729:android:bac1e628edf898f55a1680",
+        "android_client_info": {
+          "package_name": "com.apolloplanet.fighting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235303545729-ouidqilqsb79gr4c2ebdq8ccp99ktfr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC59oYNb6nTtMWcYwNoLUUAbJsZpGR_Vz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235303545729-ouidqilqsb79gr4c2ebdq8ccp99ktfr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
